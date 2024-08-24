@@ -50,6 +50,7 @@ Once everything is set up, you can start the application with:
 => npm run dev
 This will start the development server, and you can view the application in your browser at http://localhost:5173.
 
+
 💡 Usage
 Sign Up/Log In: Users can create an account or log in to access the application's features.
 Admin Access: Log in with the admin credentials provided above to access the admin panel.
@@ -61,6 +62,8 @@ Firebase: Backend services and authentication
 Context API: State management
 CSS/Tailwind CSS: Styling
 React Router: Navigation
+
+
 📂 Project Structure
 src/
 components/: Contains reusable UI components.
@@ -70,6 +73,8 @@ pages/: Contains different pages (e.g., Home, Admin, Product Details).
 components/: Contains reusable UI components like Header, Footer, ProductCard, Filter, and Modal, designed for modularity and ease of use across the application.
 App.js: Main application component.
 index.js: Entry point of the application.
+
+
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to talk about potential changes.
 
