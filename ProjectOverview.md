@@ -1,4 +1,5 @@
 🛒 My E-Commerce React Project
+
 This project is a full-fledged e-commerce application built with React, using the useContext hook extensively. The application features a unified user and admin interface, 
 authentication via Firebase, and essential e-commerce functionalities such as product filtering and an "Add to Cart" feature.
 
