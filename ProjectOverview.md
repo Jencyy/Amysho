@@ -5,6 +5,7 @@ authentication via Firebase, and essential e-commerce functionalities such as pr
 
 ✨ Features
 
+
 👥 User and Admin Roles: The application distinguishes between user and admin roles. The admin interface is accessible only by logging in with a specific account.
 
 🔐 Authentication: Users must sign up and log in to interact with the application, with authentication managed by Firebase.
