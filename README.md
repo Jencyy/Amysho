@@ -79,12 +79,19 @@ React Router: Navigation
 
 ## 📂 Project Structure
 src/
+
 ├── components/          # Reusable UI components like Header, Footer, ProductCard, Filter, Modal
+
 ├── context/             # Context API implementation for global state management
+
 ├── firebase/            # Firebase configuration and utilities
+
 ├── pages/               # Different pages (e.g., Home, Admin, Product Details)
+
 ├── App.js               # Main application component
+
 └── index.js             # Entry point of the application
+
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential changes.
