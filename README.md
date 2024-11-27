@@ -40,7 +40,7 @@ Ensure that you have the following installed:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd E-commerce
+    cd Amysho
     ```
 3. Install npm packages:
     ```bash
